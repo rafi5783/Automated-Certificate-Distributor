@@ -18,6 +18,7 @@ For the script to function correctly, your directory must be organized exactly a
 ├── 📄 recipients.xlsx       <-- Excel sheet with user data
 ├── 📄 index.js              <-- Main automation script
 └── 📄 package.json
+```
 
 ## 📋 Input Requirements
 
